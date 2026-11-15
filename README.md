@@ -30,7 +30,7 @@ The Gemini API key is intended to be stored as a Cloudflare Worker secret (`GEMI
 
 ## Project status
 
-Built as a web-based educational science playground for the IceHacks 2026 hackathon.
+Built as a web-based educational science playground to facilitate learning in rural nigeria
 
 ## Credits and AI disclosure
 
